@@ -1,1 +1,1 @@
-Use TCP/Via GET
+Используйте TCP/Via GET
