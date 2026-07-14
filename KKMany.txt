@@ -28,3 +28,8 @@ vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@raff-vpn-kz-server1.ru:443?security
 vless://a173d438-fcdd-4f17-a6e1-c81227038059@37.143.14.106:443?fp=firefox&mode=gun&pbk=Kto_-HjLzajq1_Ffa69tSwfn-dIg1ow9elgaUBhkqyo&security=reality&sni=5post-gate.x5.ru&type=grpc#🇰🇿Kazakhstan 16
 vless://3312ce2f-444b-4520-b4d7-81b1eca2801f@213.148.1.43:443?flow=xtls-rprx-vision&fp=firefox&pbk=_blyqClfqZe6rxcjUh-v8e971xJCyfAmwG1WUxtf8Vw&security=reality&sid=86749fd155936976&sni=kz.t1n2.com&type=tcp#🇰🇿Kazakhstan 17
 vless://8b04b31b-6435-472e-a598-90705c575afc@kz.gsupport.support:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kz1.freehiliters.com&fp=firefox&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&sid=8718c58d3d51db59&type=tcp&headerType=none#🇰🇿Kazakhstan 18
+trojan://M7v%25w11Se%2A@amanm.wsone.icu:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇮🇳India 1
+trojan://M7v%25w11Se%2A@amanm.wsone.icu:443?security=tls&sni=amanm.wsone.icu#🇮🇳India 2
+trojan://M7v%25w11Se%2A@hyfuuf6.wsone.icu:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇮🇳India 3
+trojan://M7v%25w11Se%2A@qfdfsg.wsone.icu:443?allowInsecure=1&type=tcp&security=tls&sni=qfdfsg.wsone.icu#🇮🇳India 4
+trojan://M7v%25w11Se%2A@hyfuuf6.wsone.icu:443?security=tls&sni=hyfuuf6.wsone.icu#🇮🇳India 5
